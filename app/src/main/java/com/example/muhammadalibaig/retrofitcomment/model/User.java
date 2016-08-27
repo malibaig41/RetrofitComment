@@ -2,9 +2,7 @@ package com.example.muhammadalibaig.retrofitcomment.model;
 
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by Muhammad Ali Baig on 8/27/2016.
- */
+
 public class User {
     @SerializedName("id")
     private int mId;

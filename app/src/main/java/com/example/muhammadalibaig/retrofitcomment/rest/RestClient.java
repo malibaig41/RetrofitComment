@@ -3,9 +3,7 @@ package com.example.muhammadalibaig.retrofitcomment.rest;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-/**
- * Created by Muhammad Ali Baig on 8/27/2016.
- */
+
 public class RestClient {
 
     public static final String BASE_URL = "http://22olpqlwum5qrabnx-mock.stoplight-proxy.io/";
