@@ -11,4 +11,7 @@ import retrofit2.http.GET;
 public interface API {
     @GET("comments/{id}")
     Call<Comment> getComment();
+
+    @GET("tasks/{id}")
+    Call<Comment> getTask();
 }
